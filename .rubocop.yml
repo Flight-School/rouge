@@ -29,7 +29,7 @@ Lint/UnusedMethodArgument:
 Lint/UnusedBlockArgument:
   Enabled: false
 
-Lint/EndAlignment:
+Layout/EndAlignment:
   Enabled: false
 
 Lint/EmptyWhen:
